@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>smile</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing" transform="translate(-184.000000, -778.000000)">
+            <g id="smile" transform="translate(185.000000, 779.000000)">
+                <circle id="Oval" stroke="#4A4A4A" stroke-width="2" stroke-linecap="square" cx="11" cy="19" r="2"></circle>
+                <circle id="Oval" stroke="#4A4A4A" stroke-width="2" stroke-linecap="square" cx="31" cy="19" r="2"></circle>
+                <circle id="Oval" fill="#4A4A4A" cx="11" cy="19" r="2"></circle>
+                <circle id="Oval" fill="#4A4A4A" cx="31" cy="19" r="2"></circle>
+                <circle id="Oval" stroke="#4A4A4A" stroke-width="2" stroke-linecap="square" cx="21" cy="21" r="21"></circle>
+                <path d="M14.07,29 C15.4985916,31.4769631 18.1405909,33.0031137 21,33.0031137 C23.8594091,33.0031137 26.5014084,31.4769631 27.93,29" id="Path" stroke="#4A4A4A" stroke-width="2" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

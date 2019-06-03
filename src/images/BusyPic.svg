@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="184px" height="146px" viewBox="0 0 184 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>BusyPic</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing" transform="translate(-114.000000, -424.000000)" stroke="#4A4A4A" stroke-width="2">
+            <g id="BusyPic" transform="translate(115.000000, 425.000000)">
+                <g id="speaker" transform="translate(0.000000, 102.000000)">
+                    <path d="M13.5,27 L17.255,35.294 C17.978,36.915 17.251,38.816 15.63,39.539 C14.009,40.262 12.108,39.535 11.385,37.914 L4.15,21.703" id="Path"></path>
+                    <path d="M30,32 L14,22 L6,22 C2.686,22 0,19.314 0,16 C0,12.686 2.686,10 6,10 L14,10 L30,0 L30,32 Z" id="Path" stroke-linecap="square"></path>
+                    <path d="M40,16 L44,16" id="Path" stroke-linecap="square"></path>
+                    <path d="M37.588,7 L41.053,5" id="Path" stroke-linecap="square"></path>
+                    <path d="M37.588,25 L41.053,27" id="Path" stroke-linecap="square"></path>
+                    <path d="M8,10 L8,22" id="Path" stroke-linecap="square"></path>
+                </g>
+                <g id="bored" transform="translate(70.000000, 102.000000)" stroke-linecap="square">
+                    <path d="M34,17 C34,19.209139 32.209139,21 30,21 C27.790861,21 26,19.209139 26,17" id="Path"></path>
+                    <path d="M16,17 C16,19.209139 14.209139,21 12,21 C9.790861,21 8,19.209139 8,17" id="Path"></path>
+                    <circle id="Oval" cx="21" cy="29" r="4"></circle>
+                    <circle id="Oval" cx="21" cy="21" r="21"></circle>
+                </g>
+                <g id="speaker" transform="translate(160.000000, 124.000000) scale(-1, 1) translate(-160.000000, -124.000000) translate(138.000000, 104.000000)">
+                    <path d="M13.5,27 L17.255,35.294 C17.978,36.915 17.251,38.816 15.63,39.539 C14.009,40.262 12.108,39.535 11.385,37.914 L4.15,21.703" id="Path"></path>
+                    <path d="M30,32 L14,22 L6,22 C2.686,22 0,19.314 0,16 C0,12.686 2.686,10 6,10 L14,10 L30,0 L30,32 Z" id="Path" stroke-linecap="square"></path>
+                    <path d="M40,16 L44,16" id="Path" stroke-linecap="square"></path>
+                    <path d="M37.588,7 L41.053,5" id="Path" stroke-linecap="square"></path>
+                    <path d="M37.588,25 L41.053,27" id="Path" stroke-linecap="square"></path>
+                    <path d="M8,10 L8,22" id="Path" stroke-linecap="square"></path>
+                </g>
+                <g id="steering-wheel" transform="translate(116.000000, 47.000000)">
+                    <path d="M4.4812331,11.772049 C5.9880953,11.0765438 10.8355207,9 15.0000324,9 C19.1379394,9 23.978096,11.063015 25.5187664,11.772049" id="Path"></path>
+                    <path d="M12.9316406,25.7991333 C12.4076538,20.9772949 8.7688598,17.0961304 4.0683594,16.2008667" id="Path"></path>
+                    <path d="M17.0683594,25.7991333 C17.5923462,20.9772949 21.2311402,17.0961304 25.9316406,16.2008667" id="Path"></path>
+                    <circle id="Oval" stroke-linecap="square" cx="15" cy="15" r="15"></circle>
+                    <circle id="Oval" stroke-linecap="square" cx="15" cy="15" r="11"></circle>
+                    <circle id="Oval" stroke-linecap="square" cx="15" cy="15" r="2"></circle>
+                </g>
+                <g id="crossroad" transform="translate(77.000000, 18.000000)" stroke-linecap="square">
+                    <polyline id="Path" points="13 8 3 8 0 11 3 14 13 14"></polyline>
+                    <polyline id="Path" points="17 3 23 3 26 6 23 9 17 9"></polyline>
+                    <polyline id="Path" points="17 13 23 13 26 16 23 19 17 19"></polyline>
+                    <path d="M17,30 L9,30" id="Path"></path>
+                    <path d="M13,30 L13,0" id="Path"></path>
+                </g>
+                <g id="money-12" transform="translate(41.000000, 41.000000)" stroke-linecap="square">
+                    <rect id="Rectangle" x="0" y="9" width="30" height="22"></rect>
+                    <circle id="Oval" cx="15" cy="20" r="3"></circle>
+                    <path d="M22,13 L8,13 C8,15.259 6.259,17 4,17 L4,23 C6.259,23 8,24.741 8,27 L22,27 C22,24.741 23.741,23 26,23 L26,17 C23.741,17 22,15.259 22,13 Z" id="Path"></path>
+                    <path d="M5,5 L25,5" id="Path"></path>
+                    <path d="M10,1 L20,1" id="Path"></path>
+                </g>
+                <g id="presentation" transform="translate(112.000000, 0.000000)">
+                    <path d="M8,10 L8,30" id="Path" stroke-linecap="square"></path>
+                    <circle id="Oval" stroke-linecap="square" cx="4" cy="3" r="3"></circle>
+                    <path d="M18,10 L2,10 C0.8954305,10 0,10.8954305 0,12 L0,30" id="Path" stroke-linecap="square"></path>
+                    <polyline id="Path" stroke-linecap="square" points="11 3 26 3 26 21 12 21"></polyline>
+                    <path d="M19,21 L24,30" id="Path"></path>
+                </g>
+                <g id="mobile-chat" transform="translate(84.000000, 57.000000)" stroke-linecap="square">
+                    <path d="M26,14 L14,14 L9,17 L9,2 C9,0.8954305 9.8954305,2.22044605e-16 11,0 L26,0 C27.1045695,0 28,0.8954305 28,2 L28,12 C28,13.1045695 27.1045695,14 26,14 Z" id="Path"></path>
+                    <path d="M14,9 L18,9" id="Path"></path>
+                    <path d="M14,5 L23,5" id="Path"></path>
+                    <path d="M5,2 L3,2 C1.34314575,2 0,3.34314575 0,5 L0,27 C0,28.6568542 1.34314575,30 3,30 L16,30 C17.6568542,30 19,28.6568542 19,27 L19,18" id="Path"></path>
+                </g>
+                <g id="phone-call" transform="translate(5.000000, 28.000000)" stroke-linecap="square">
+                    <path d="M17,1 C23.627417,1 29,6.372583 29,13" id="Path"></path>
+                    <path d="M23,13 C23,9.6862915 20.3137085,7 17,7" id="Path"></path>
+                    <path d="M19.693,18.293 L17.411,21.146 C13.876682,19.0686827 10.9313173,16.123318 8.854,12.589 L11.707,10.307 C12.394291,9.75644687 12.6242721,8.81188152 12.267,8.007 L9.667,2.152 C9.28195378,1.28452645 8.32557257,0.823262949 7.407,1.062 L2.457,2.346 C1.50082308,2.59564191 0.882564617,3.5210962 1.018,4.5 C2.80264168,17.2087688 12.7912312,27.1973583 25.5,28.982 C26.4785511,29.1168883 27.4033977,28.4987488 27.653,27.543 L28.937,22.593 C29.1747762,21.6753235 28.7141644,20.7202623 27.848,20.335 L21.993,17.735 C21.1885598,17.377281 20.244084,17.606419 19.693,18.293 Z" id="Path"></path>
+                </g>
+                <g id="b-comment" transform="translate(40.000000, 4.000000)" stroke-linecap="square">
+                    <path d="M12.568,24 C14.6309451,25.3355287 17.0426852,26.0313567 19.5,26 C20.6563366,25.999865 21.8078298,25.8506347 22.926,25.556 L27,28 L27,23.594 C28.8188652,22.3002784 29.9286521,20.2308957 30,18 C29.9968185,16.9520246 29.7336193,15.9212183 29.234,15" id="Path"></path>
+                    <path d="M13.5,0 C6.044,0 0,4.7 0,10.5 C0.0503997703,13.0167991 1.13556778,15.4016366 3,17.093 L3,24 L9.813,20.593 C11.0235864,20.8620767 12.2598711,20.9985475 13.5,21 C20.956,21 27,16.3 27,10.5 C27,4.7 20.956,0 13.5,0 Z" id="Path"></path>
+                </g>
+                <g id="language" transform="translate(141.000000, 18.000000)" stroke-linecap="square">
+                    <path d="M0,26 L2,26 C3.1,26 4,25.1 4,24 L4,22 L1.6,20.8 C0.1,20.1 0.1,18 1.6,17.2 L4,16 L4,14 L7.6,12.6 C8.3,12.3 8.4,11.5 7.9,11 L4,7 L4,0" id="Path"></path>
+                    <path d="M9,20 L13,15 L13,6 C13,4.3 14.3,3 16,3 L27,3 C28.7,3 30,4.3 30,6 L30,17 C30,18.7 28.7,20 27,20 L9,20 Z" id="Path"></path>
+                    <path d="M18,9 L25,9" id="Path"></path>
+                    <path d="M18,14 L25,14" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

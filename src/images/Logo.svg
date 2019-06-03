@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="77px" height="57px" viewBox="0 0 77 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing" transform="translate(-167.000000, -83.000000)">
+            <g id="Group" transform="translate(167.000000, 83.000000)">
+                <rect id="Rectangle" fill="#9CD7FF" x="0" y="0" width="77" height="57"></rect>
+                <g id="yoga" transform="translate(17.000000, 7.000000)" stroke="#4A4A4A" stroke-width="2">
+                    <circle id="Oval" stroke-linecap="square" cx="22" cy="5" r="5"></circle>
+                    <path d="M8,34 L36,34" id="Path" stroke-linecap="square"></path>
+                    <path d="M0,41 L44,41" id="Path" stroke-linecap="square"></path>
+                    <path d="M40,17 L35.647,20.483 C35.2716599,20.7832971 34.735765,20.7740576 34.371,20.461 L28,15 L16,15 L9.629,20.461 C9.26423497,20.7740576 8.72834011,20.7832971 8.353,20.483 L4,17" id="Path" stroke-linecap="square"></path>
+                    <path d="M16,15.143 L16,29" id="Path"></path>
+                    <path d="M28,15.143 L28,29" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
